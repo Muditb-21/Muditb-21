@@ -21,3 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muditb-21&" alt="muditb-21" /></p>
 
+[![An image of @muditb21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muditb21)](https://holopin.io/@muditb21)
+
