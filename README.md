@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mudit</h1>
-<h3 align="center">3rd Year Undergraduate At IIT Kanpur</h3>
+<h3 align="center">Final Year Undergraduate At IIT Kanpur</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muditb-21&label=Profile%20views&color=0e75b6&style=flat" alt="muditb-21" /> </p>
